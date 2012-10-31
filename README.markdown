@@ -2,13 +2,15 @@
 
 A Rails 3 demo application inspired by Curt Hibb's original [Rolling with Ruby on Rails](http://oreilly.com/ruby/archive/rails.html) tutorial. Cookbook uses [Devise](https://github.com/plataformatec/devise) for authentication and [Twitter Bootstrap](http://twitter.github.com/bootstrap/) for its styles.
 
+This version is configured for easy deployment on Heroku.
+
 ![Screenshot](http://f.cl.ly/items/1o2b0I1n460m1s1s1947/Screen%20Shot%202012-10-22%20at%201.29.03%20AM.png)
 
 ## Getting Started
 
 Clone the project:
 
-    git clone https://github.com/jlong/cookbook.git
+    git clone git@github.com:triangle-ror/cookbook-heroku.git
 
 Change to the cookbook directory:
 
